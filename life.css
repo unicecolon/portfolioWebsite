@@ -96,14 +96,16 @@ body {
   
   .caption {
     padding: 0.8rem;
+    color: #333;
     text-align: center;
   }
   
   footer {
+    font-size: 1.4rem;
     text-align: center;
     padding: 2rem 1rem;
     margin: auto;
-    color: #333;
+    color: #fff;
   }
   
   footer h3 {
@@ -127,6 +129,13 @@ body {
     }
   }
   
+  #unice{
+    width: 400px;
+    height: 330px;
+    align-content: center;
+    text-align: center;
+    position: absolute;
+  }
   /* Screen Sizes 700px and Up */
   @media (min-width: 700px) {
     .btn {
