@@ -1,3 +1,15 @@
+#name{
+  font-size: 4rem;
+  color: #5ff0f0;
+  margin: 0px;
+  font: bold;
+  position: fixed;
+  left: 15%;
+  top: 0%;
+  white-space: nowrap;
+}
+
+
 :root {
     --container-bg-color: rgb(66, 82, 124);
     --left-bg-color: rgba(131, 154, 173, 0.7);
