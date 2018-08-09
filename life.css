@@ -73,6 +73,7 @@ body {
   
   #header {
     margin: 1rem;
+    width: 1500px;
     padding: 1.5rem;
     text-align: center;
     background: #333;
@@ -214,4 +215,14 @@ body {
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
+}
+
+#logo{
+    border-image: 2px;
+    border-color: #fff;
+    width: 400px;
+    height: 200px;
+    margin-left: 0px;
+    position: absolute;
+    margin: auto;
 }
