@@ -218,11 +218,17 @@ body {
 }
 
 #logo{
-    border-image: 2px;
+    border-image: 20px;
     border-color: #fff;
     width: 400px;
     height: 200px;
     margin-left: 0px;
-    position: absolute;
-    margin: auto;
+    position: relative;
+    margin: 20px;
+}
+
+#map{
+  margin: 10px;
+  top: 50%;
+  position: center;
 }
